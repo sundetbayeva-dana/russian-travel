@@ -9,7 +9,8 @@
     position: relative;
     z-index: 1;
     width: calc(100% - 48px*2);
-    margin: 92px auto;       
+    margin: 92px auto;  
+    object-fit: cover;     
 }
 .cover:before {
     content: '';
