@@ -1,0 +1,21 @@
+.lead__title {
+    display: flex;
+    max-width: 720px;    
+    text-align: center;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    margin: 0 auto 32px;
+    box-sizing: border-box;
+   justify-content: center;    
+}
+@media screen and (max-width: 767px) {
+    .lead__title {
+        width: calc(100% - 2*16px);
+        font-size: 40px;
+        line-height: 44px;
+        margin-bottom: 16px;
+    }
+}
