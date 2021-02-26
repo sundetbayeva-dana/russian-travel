@@ -9,5 +9,5 @@
     margin: 12px auto 0;
 }
 .place__link:hover {
-    text-decoration: none;
+    opacity: .8;
 }

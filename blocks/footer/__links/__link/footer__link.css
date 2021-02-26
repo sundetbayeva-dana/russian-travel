@@ -8,6 +8,9 @@
     margin: 0 18px 0 0;
     text-decoration: none;
 }
+.footer__link:hover {
+    opacity: .8;
+}
 .footer__link:last-child {
     margin: 0;
 }
