@@ -10,7 +10,7 @@
 }*/
 @media screen and (min-width: 768px) {
     .place {
-        display: flex;
+        display: grid;
         grid-template-columns: 460px 1fr;
         grid-template-rows: 1fr 460px;
         gap: 48px 40px;
