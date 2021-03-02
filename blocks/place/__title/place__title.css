@@ -11,8 +11,8 @@
     .place__title {
         font-size: 42px;
         line-height: 46px;
-        min-height: 92px;
-        white-space: pre-line;
+        /*display: flex;
+        flex-direction: column;*/
     }
 }
 @media screen and (max-width: 767px) {

@@ -1,7 +1,7 @@
 .header {
     width: calc(100% - 2*48px);
-    /*width: 1184px;*/
-    max-height: 52px;
+    /*width: 1184px;
+    max-height: 52px;*/
     display: flex;
     flex-direction: row;
     margin: 28px auto 0;
