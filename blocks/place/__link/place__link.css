@@ -6,7 +6,8 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
-    margin: 12px auto 0;
+    /*margin: 12px auto 0;*/
+    margin: 0 auto;
 }
 .place__link:hover {
     opacity: .8;

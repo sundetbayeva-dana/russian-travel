@@ -1,14 +1,14 @@
 .header {
-    width: calc(100% - 2 * 48px);
+    width: calc(100% - 2*48px);
     /*width: 1184px;*/
-    height: 52px;
+    max-height: 52px;
     display: flex;
     flex-direction: row;
     margin: 28px auto 0;
     justify-content: space-between;
     align-items: center;
     align-self: center;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 @media screen and (max-width: 1279px) {
     .header {

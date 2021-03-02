@@ -1,0 +1,12 @@
+.place__text-container {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+@media screen and (max-width: 767px) {
+    .place__text-container {
+        width: calc(100% - 2*16px);
+        margin: 32px auto 0;
+    }
+
+}

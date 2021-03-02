@@ -5,11 +5,21 @@
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
-    margin: 0;    
+    margin: 0;
 } 
 @media screen and (max-width: 1023px) {
     .place__title {
         font-size: 42px;
         line-height: 46px;
+        min-height: 92px;
+        white-space: pre-line;
+    }
+}
+@media screen and (max-width: 767px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0 0 32px 16px;
+        
     }
 }
