@@ -19,7 +19,7 @@
 }
 .cover__link:before {
     content: '';
-    background: black;
+    background: #2A2C2F;
     opacity: 0.3;
     position: absolute;
     top: 0;

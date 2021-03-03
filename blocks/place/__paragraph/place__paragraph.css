@@ -20,8 +20,8 @@
         margin-top: 25px;
     }
 }
-@media screen and (max-width: 767px) {
+/*@media screen and (max-width: 767px) {
     .place__paragraph:nth-child(2) {
         margin-top: 25px;    
     }
-}
+}*/
