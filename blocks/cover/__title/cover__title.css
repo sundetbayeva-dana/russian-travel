@@ -9,8 +9,6 @@
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
-    /*justify-content: center;
-    align-items: center;*/
 }
 @media screen and (max-width: 767px) {
     .cover__title {
